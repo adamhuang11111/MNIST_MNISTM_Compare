@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/yangzhihan/Desktop/tf-dann-master/trained_models/dann/model.ckpt"
+all_model_checkpoint_paths: "/Users/yangzhihan/Desktop/tf-dann-master/trained_models/dann/model.ckpt"
